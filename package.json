@@ -1,6 +1,6 @@
 {
-  "name": "react-app1",
-  "version": "0.1.0",
+  "name": "reactCounterApp",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://alfarelzaki.github.io/react-app1",
   "dependencies": {
