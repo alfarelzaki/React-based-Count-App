@@ -1,8 +1,8 @@
 {
-  "name": "reactCounterApp",
+  "name": "reactCountApp",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://alfarelzaki.github.io/react-app1",
+  "homepage": "https://alfarelzaki.github.io/reactCountApp",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
